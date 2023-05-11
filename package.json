@@ -1,0 +1,15 @@
+{
+  "name": "revolucija_launcher",
+  "version": "1.0.0",
+  "description": "Launcher for Revolucija Roleplay Server",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^21.1.0",
+    "jquery": "^3.6.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "šeki",
+  "license": "ISC"
+}
